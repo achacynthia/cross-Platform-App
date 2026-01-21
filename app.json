@@ -1,0 +1,17 @@
+{
+  "expo": {
+    "name": "News App",
+    "slug": "news-app",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTabletMode": true
+    },
+    "android": {
+      "package": "com.newsapp.mobile"
+    },
+    "privacy": "public"
+  }
+}
